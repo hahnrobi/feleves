@@ -1,0 +1,13 @@
+1 1
+K
+EK
+EK
+DK
+DK
+E
+EN
+EN
+DN
+DN
+N
+D

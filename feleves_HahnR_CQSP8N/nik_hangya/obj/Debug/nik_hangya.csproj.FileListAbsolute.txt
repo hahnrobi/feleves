@@ -1,0 +1,6 @@
+c:\users\hahnr\onedrive\dokumentumok\visual studio 2015\Projects\nik_hangya\nik_hangya\bin\Debug\nik_hangya.exe.config
+c:\users\hahnr\onedrive\dokumentumok\visual studio 2015\Projects\nik_hangya\nik_hangya\bin\Debug\nik_hangya.exe
+c:\users\hahnr\onedrive\dokumentumok\visual studio 2015\Projects\nik_hangya\nik_hangya\bin\Debug\nik_hangya.pdb
+c:\users\hahnr\onedrive\dokumentumok\visual studio 2015\Projects\nik_hangya\nik_hangya\obj\Debug\nik_hangya.csprojResolveAssemblyReference.cache
+c:\users\hahnr\onedrive\dokumentumok\visual studio 2015\Projects\nik_hangya\nik_hangya\obj\Debug\nik_hangya.exe
+c:\users\hahnr\onedrive\dokumentumok\visual studio 2015\Projects\nik_hangya\nik_hangya\obj\Debug\nik_hangya.pdb
